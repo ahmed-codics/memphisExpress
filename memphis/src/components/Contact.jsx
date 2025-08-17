@@ -18,10 +18,56 @@ const Contact = () => {
 
             <div className="flex items-center space-x-4 space-x-reverse">
               <Phone className="w-6 h-6 text-blue-600" />
-              <a href="tel:+201234567890" className="text-lg text-gray-700 hover:text-blue-600 transition">
-                01111536999
+              <a href="tel:+201111458668" className="text-lg text-gray-700 hover:text-blue-600 transition">
+                01111458668
               </a>
             </div>
+
+                        <div className="flex items-center space-x-4 space-x-reverse">
+              <Phone className="w-6 h-6 text-blue-600" />
+              <a href="tel:+201223536536" className="text-lg text-gray-700 hover:text-blue-600 transition">
+                01223536536
+              </a>
+            </div>
+
+            <div className="flex items-center space-x-4 space-x-reverse">
+              <Phone className="w-6 h-6 text-blue-600" />
+              <a href="tel:+201021521243" className="text-lg text-gray-700 hover:text-blue-600 transition">
+                01021521243
+              </a>
+            </div>
+
+            <div className="flex items-center space-x-4 space-x-reverse">
+              <Phone className="w-6 h-6 text-blue-600" />
+              <a href="tel:+201103031902" className="text-lg text-gray-700 hover:text-blue-600 transition">
+                01103031902
+              </a>
+            </div>
+
+            <div className="flex items-center space-x-4 space-x-reverse">
+              <Phone className="w-6 h-6 text-blue-600" />
+              <a href="tel:+201274075000" className="text-lg text-gray-700 hover:text-blue-600 transition">
+                01274075000
+              </a>
+            </div>
+
+            <div className="flex items-center space-x-4 space-x-reverse">
+              <Phone className="w-6 h-6 text-blue-600" />
+              <a href="tel:+201111458668" className="text-lg text-gray-700 hover:text-blue-600 transition">
+                01111458668
+              </a>
+            </div>
+
+            <div className="flex items-center space-x-4 space-x-reverse">
+              <Phone className="w-6 h-6 text-blue-600" />
+              <a href="tel:+201226891891" className="text-lg text-gray-700 hover:text-blue-600 transition">
+                01226891891
+              </a>
+            </div>
+
+
+
+            
 
             <div className="flex items-center space-x-4 space-x-reverse">
               <Mail className="w-6 h-6 text-blue-600" />
