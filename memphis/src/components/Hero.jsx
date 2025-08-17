@@ -19,7 +19,7 @@ const Hero = () => {
       {/* Text Content */}
       <div className="relative z-10 text-center text-white px-6 max-w-3xl">
         <h1 className="text-4xl sm:text-5xl md:text-7xl lg:text-8xl font-extrabold leading-tight drop-shadow-lg">
-          Memphis Express
+          MEMPHIS EXPRESS
         </h1>
         <p className="mt-4 sm:mt-6 text-lg sm:text-xl md:text-2xl lg:text-3xl font-medium drop-shadow-md">
           نوصّل شحنتك بسرعة وأمان لأي مكان 🌍
