@@ -31,7 +31,7 @@ const Footer = () => {
           <div className="space-y-2">
             <p className="flex items-center gap-2">
               <Phone className="w-5 h-5 text-blue-500" />
-              01111536999
+              01111458668
             </p>
             <p className="flex items-center gap-2">
               <Mail className="w-5 h-5 text-blue-500" />
